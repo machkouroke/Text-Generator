@@ -4,7 +4,7 @@ from Filter import StartSentenceFilter, EndSentenceFilter
 
 from nltk import bigrams
 
-from AbstractPhraseMaker import AbstractPhraseMaker
+from .AbstractPhraseMaker import AbstractPhraseMaker
 
 
 class BigramPhraseMaker(AbstractPhraseMaker):

@@ -1,5 +1,5 @@
-from BigramPhraseMaker import BigramPhraseMaker
-from TriGramPhraseMaker import TrigramPhraseMaker
+from PhraseMaker.BigramPhraseMaker import BigramPhraseMaker
+from PhraseMaker.TriGramPhraseMaker import TrigramPhraseMaker
 
 
 def bigram_phrase_maker():
